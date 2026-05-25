@@ -1,0 +1,9 @@
+Copyright (c) 2026 FM SISTEMAS
+
+All Rights Reserved.
+
+This software is proprietary and confidential.
+
+Unauthorized copying, modification, distribution, reverse engineering, resale, sublicensing, or commercial use of this software, in whole or in part, is strictly prohibited without explicit written permission from FM SISTEMAS.
+
+This software is provided "as is", without warranty of any kind.
