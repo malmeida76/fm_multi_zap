@@ -14,14 +14,16 @@ Advanced features (such as bulk session creation, UI automated payloads, broadca
 
 ---
 
-## 🛠️ Installation Guide (TrollStore)
+## 🛠️ Installation Guide (TrollFools)
 
-**Prerequisites:** Your device MUST have [TrollStore](https://github.com/opa334/TrollStore) installed. This tweak does not work via standard sideloading (AltStore/Sideloadly) due to the strict sandbox escapes required to manage multiple data vaults.
+**Prerequisites:** Your device MUST have [TrollFools](https://github.com/Lessica/TrollFools) installed (requires TrollStore/Jailbreak). This tweak must be injected directly into the official App Store version of WhatsApp. It CANNOT be installed as a standalone cloned app (TIPA/IPA).
 
-1. Download the latest `ZapModFree-vX.X.X.tipa` from the **Releases** tab https://github.com/user-attachments/files/28246645/ZapModFree-Release-v6.9.24.zip .
-2. Share the downloaded `.tipa` file to the **TrollStore** app on your iPhone.
-3. TrollStore will automatically install it.
-4. **Important:** After installing, open the app once, then access the **FMSistemas MultiApp** menu via the iOS Home Screen Quick Actions (3D Touch / Haptic Touch on the WhatsApp icon).
+1. Download the latest `ZapModFree-Release-vX.X.X.zip` from the **Releases** tab and extract the `.dylib` file.
+2. Open **TrollFools** on your device.
+3. Select **WhatsApp** from the list of applications.
+4. Tap **"Inject"** and select the extracted `ZapModFree-vX.X.X.dylib`.
+5. After injection succeeds, open WhatsApp.
+6. **Important:** Access the **FMSistemas MultiApp** menu via the iOS Home Screen Quick Actions (3D Touch / Haptic Touch on the WhatsApp icon).
 
 ## 💡 How to Use
 1. **Force Touch** the WhatsApp icon on your Home Screen.
