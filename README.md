@@ -18,12 +18,13 @@ Advanced features (such as bulk session creation, UI automated payloads, broadca
 
 **Prerequisites:** Your device MUST have [TrollFools](https://github.com/Lessica/TrollFools) installed (requires TrollStore/Jailbreak). This tweak must be injected directly into the official App Store version of WhatsApp. It CANNOT be installed as a standalone cloned app (TIPA/IPA).
 
-1. Download the latest `[ZapModFree-Release-v6.9.24.zip](https://github.com/malmeida76/fm_multi_zap/releases/download/v6.9.24/ZapModFree-Release-v6.9.24.zip)` from the **Releases** tab and extract the `.dylib` file.
+1. Download the latest [ZapModFree-Release-v6.9.24.zip](https://github.com/malmeida76/fm_multi_zap/releases/download/v6.9.24/ZapModFree-Release-v6.9.24.zip) from the **Releases** tab and extract the `.dylib` file.
 2. Open **TrollFools** on your device.
 3. Select **WhatsApp** from the list of applications.
 4. Tap **"Inject"** and select the extracted `ZapModFree-v6.9.24.dylib`.
 5. After injection succeeds, open WhatsApp.
 6. **Important:** Access the **FMSistemas MultiApp** menu via the iOS Home Screen Quick Actions (3D Touch / Haptic Touch on the WhatsApp icon).
+![FM MULTI](IMG-20260521-WA0097.jpg)
 
 ## 💡 How to Use
 1. **Force Touch** the WhatsApp icon on your Home Screen.
