@@ -16,7 +16,7 @@ Advanced features (such as bulk session creation, UI automated payloads, broadca
 
 ## 🛠️ Installation Guide (TrollFools)
 
-**Prerequisites:** Your device MUST have [TrollFools](https://github.com/Lessica/TrollFools) installed (requires TrollStore/Jailbreak). This tweak must be injected directly into the official App Store version of WhatsApp. It CANNOT be installed as a standalone cloned app (TIPA/IPA).
+**Prerequisites:** Your device MUST have [TrollFools](https://github.com/Lessica/TrollFools) installed requires TrollStore/Jailbreak [https://ios.cfw.guide/] . This tweak must be injected directly into the official App Store version of WhatsApp. It CANNOT be installed as a standalone cloned app (TIPA/IPA).
 
 1. Download the latest [ZapModFree-Release-v6.9.24.zip](https://github.com/malmeida76/fm_multi_zap/releases/download/v6.9.24/ZapModFree-Release-v6.9.24.zip) from the **Releases** tab and extract the `.dylib` file.
 2. Open **TrollFools** on your device.
